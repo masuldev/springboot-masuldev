@@ -20,7 +20,7 @@ apply plugin: 'io.spring.dependency-management'
 //}
 
 group 'com.masuldev.spring'
-version '1.0.2-SNAPSHOT'
+version '1.0.2-' + new Date().format("yyyyMMddHHmmss")
 
 sourceCompatibility = 1.8
 
