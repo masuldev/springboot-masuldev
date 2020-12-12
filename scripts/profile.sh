@@ -18,7 +18,7 @@ function find_idle_profile(){
     IDLE_PROFILE=real1
   fi
 
-  echo "> ${IDLE_PROFILE}"
+  echo "${IDLE_PROFILE}"
 }
 
 # 쉬고 있는 profile의 port 찾기
@@ -27,8 +27,8 @@ function find_idle_port(){
 
   if [ ${IDLE_PROFILE} == real1 ]
   then
-    echo "> 8081"
+    echo "8081"
   else
-    echo "> 8082"
+    echo "8082"
   fi
 }
