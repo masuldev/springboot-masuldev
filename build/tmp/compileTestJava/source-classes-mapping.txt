@@ -1,0 +1,14 @@
+com/masuldev/spring/web/PostsApiControllerTest.java
+ com.masuldev.spring.web.PostsApiControllerTest
+com/masuldev/spring/web/domain/posts/PostsRepositoryTest.java
+ com.masuldev.spring.web.domain.posts.PostsRepositoryTest
+com/masuldev/spring/web/IndexControllerTest.java
+ com.masuldev.spring.web.IndexControllerTest
+com/masuldev/spring/web/ProfileControllerUnitTest.java
+ com.masuldev.spring.web.ProfileControllerUnitTest
+com/masuldev/spring/web/ProfileControllerTest.java
+ com.masuldev.spring.web.ProfileControllerTest
+com/masuldev/spring/web/HelloControllerTest.java
+ com.masuldev.spring.web.HelloControllerTest
+com/masuldev/spring/web/HelloResponseDtoTest.java
+ com.masuldev.spring.web.HelloResponseDtoTest
